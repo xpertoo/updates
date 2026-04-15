@@ -1,0 +1,15 @@
+{
+  "latestVersion": "1.0.0",
+  "minRequiredVersion": "1.0.0",
+  "apkUrl": "https://github.com/xpertoo/updates/releases/download/v1.0.0/xpertoo-1.0.0.apk",
+  "apkSha256": "9592c5c4168277169891ff62654c566454315861afe9e5d339120ea4a561d268",
+  "isForceUpdate": false,
+  "maxPostponeCount": 3,
+  "wifiOnly": false,
+  "isActive": true,
+  "releaseNotes": {
+    "ar": "الإصدار الأول من XpertOo",
+    "en": "First release of XpertOo",
+    "fr": "Première version de XpertOo"
+  }
+}
